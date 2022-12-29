@@ -1,0 +1,397 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 1440px;
+}
+.ex {
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+top: 358px;
+left: 431px;
+position: relative;
+margin: 0 auto;
+
+color: #000000;
+
+}
+
+.logo{
+  position: relative;
+  left: 69px;
+  top: 0px;
+}
+
+.formochka{
+  position: relative;
+  left: 416px;
+  top: 220px;
+}
+
+
+.sevena .shape-container {
+animation: move-right 6s infinite cubic-bezier(.37,.55,.49,.67);
+position: absolute;
+left: calc(0% - 4em);
+top: calc(50% - 4em);
+}
+.sevena .shape {
+animation: bounce 6s infinite linear;
+border-radius: 50%;
+position: relative;
+left: auto;
+top: auto;
+}
+
+@keyframes move-right {
+0% {
+  transform: translateX(-20em);
+  opacity: 1;
+}
+80% {
+  opacity: 1;
+}
+90%, 100% {
+  transform: translateX(20em);
+  opacity: 0;
+}
+}
+
+@keyframes bounce {
+0% {
+  transform: translateY(-8em);
+  animation-timing-function: cubic-bezier(.51,.01,.79,.02);
+}
+15% {
+  transform: translateY(8em);
+  animation-timing-function: cubic-bezier(.19,1,.7,1);
+}
+25% {
+  transform: translateY(-4em);
+  animation-timing-function: cubic-bezier(.51,.01,.79,.02);
+}
+32.5% {
+  transform: translateY(8em);
+  animation-timing-function: cubic-bezier(.19,1,.7,1);
+}
+40% {
+  transform: translateY(0em);
+  animation-timing-function: cubic-bezier(.51,.01,.79,.02);
+}
+45% {
+  transform: translateY(8em);
+  animation-timing-function: cubic-bezier(.19,1,.7,1);
+}
+50% {
+  transform: translateY(3em);
+  animation-timing-function: cubic-bezier(.51,.01,.79,.02);
+}
+56% {
+  transform: translateY(8em);
+  animation-timing-function: cubic-bezier(.19,1,.7,1);
+}
+60% {
+  transform: translateY(6em);
+  animation-timing-function: cubic-bezier(.51,.01,.79,.02);
+}
+64% {
+  transform: translateY(8em);
+  animation-timing-function: cubic-bezier(.19,1,.7,1);
+}
+66% {
+  transform: translateY(7.5em);
+  animation-timing-function: cubic-bezier(.51,.01,.79,.02);
+}
+70%, 100% {
+  transform: translateY(8em);
+  animation-timing-function: cubic-bezier(.19,1,.7,1);
+}
+}
+
+
+
+.principle {
+width: 100%;
+height: 100vh;
+position: relative;
+}
+
+.shape {
+border: 20px solid #000000;
+width:  184px;
+height: 179px;
+position: absolute;
+top: calc(50% - 2em);
+left: calc(50% - 2em);
+}
+
+.stolb{
+position: absolute;
+width: 198px;
+height: 593px;
+left: 143px;
+top: 978px;
+background: #000000;
+}
+
+.stolb2{
+position: absolute;
+width: 198px;
+height: 298px;
+left: 734px;
+top: 793px;
+
+background: #000000;
+}
+
+.stolb3{
+position: absolute;
+width: 198px;
+height: 892px;
+left: 734px;
+top: 1271px;
+
+background: #000000;
+}
+
+.koval{
+  position: absolute;
+  left: 122px;
+  top: 1666px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+
+}
+
+.stanok{
+  position: absolute;
+  left: 354px;
+  top: 1696px;
+}
+
+.stanok1{
+  position: absolute;
+  left: 345.7px;
+  top: 1996.31px;
+}
+
+.stanok2{
+  position: absolute;
+  left: 0px;
+  top: 2125.1px;
+}
+
+.big{
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-size: 24px;
+  left: 122px;
+  top: 2916px;
+  position: absolute;
+
+
+}
+
+.stanok3{
+  position: absolute;
+  left: 1095px;
+  top: 3853.58px;
+
+}
+
+.conv{
+  position: absolute;
+  left: 107px;
+  top: 4279px;
+
+
+}
+
+.pllain{
+  position: absolute;
+  width: 685px;
+  height: 300px;
+  left: 0px;
+  top: 5161px;
+
+  background: #FFFFFF;
+}
+
+.konveer{
+  position: absolute;
+  left: 122px;
+  top: 5179px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.conv2{
+  position: absolute;
+  left: 0px;
+  top: 5516px;
+}
+
+.conv3{
+  position: absolute;
+  left: 1095px;
+  top: 5838.53px;
+}
+
+.mgk{
+  position: absolute;
+  left: 122px;
+  top: 6450px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.l{
+  position: absolute;
+  left: 0px;
+  top: 6524px;
+}
+
+.podst{
+  position: absolute;
+  left: 252.23px;
+  top: 6442.79px;
+
+}
+
+.r{
+  position: absolute;
+  left: 966px;
+  top: 6524px;
+}
+
+.mgkconv{
+  position: absolute;
+  left: 597px;
+  top: 7380px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.laz{
+  position: absolute;
+  left: 291px;
+  top: 7460px;
+}
+
+.laz2{
+  position: absolute;
+  left: 91px;
+  top: 7772px;
+}
+
+.laz3{
+  position: absolute;
+  left: 490px;
+  top: 7703px;
+}
+
+.laz4{
+  position: absolute;
+  left: 1042px;
+  top: 7653px;
+}
+
+.lazrng{
+  position: absolute;
+  left: 122px;
+  top: 8256px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.podst2{
+  position: absolute;
+  left: 0px;
+  top: 8166px;
+}
+
+.podst3{
+  position: absolute;
+  left: 500px;
+  top: 8066px;
+}
+
+.process{
+  position: absolute;
+  left: 0px;
+  top: 8572.79px;
+}
+
+.laz5{
+  position: absolute;
+  left: 645px;
+  top: 9924px;
+
+}
+
+.moretime{
+  position: absolute;
+  left: 969px;
+  top: 9979px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.l2{
+  position: absolute;
+  left: 1081px;
+  top: 9989px;
+}
+
+.prhd{
+  position: absolute;
+  left: 122px;
+  top: 10823px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.boxes{
+  position: absolute;
+  left: 360px;
+  top: 10878px;
+
+}
+
+.ypkvk{
+  position: absolute;
+  left: 122px;
+  top: 11591px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.tmchr{
+  position: absolute;
+  left: 122px;
+  top: 11736px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.bp22d{
+  position: absolute;
+  left: 1133px;
+  top: 11736px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}

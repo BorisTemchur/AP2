@@ -1,0 +1,279 @@
+@media only screen and (max-width: 834px) {
+  .logo{
+    position: relative;
+    left: 39px;
+    top: 0px;
+  }
+
+  .ex {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 74px;
+  left: 168px;
+  top: 289px;
+  position: relative;
+  margin: 0 auto;
+
+  color: #000000;
+
+  }
+
+  .formochka{
+    position: relative;
+    left: 146.46px;
+    top: 391.24p
+  }
+
+  .stolb{
+  position: absolute;
+  width: 198px;
+  height: 593px;
+  left: 41px;
+  top: 806.28px;
+  background: #000000;
+  }
+
+  .stolb2{
+  position: absolute;
+  width: 198px;
+  height: 298px;
+  left: 531px;
+  top: 604px;
+  background: #000000;
+  }
+
+  .stolb3{
+  position: absolute;
+  width: 198px;
+  height: 892px;
+  left: 531px;
+  top: 1082px;
+
+  background: #000000;
+  }
+
+  .koval{
+    position: absolute;
+    left: 55px;
+    top: 1458px;
+    font-family: 'Helvetica';
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.stanok{
+  position: absolute;
+  left: 110.8px;
+  top: 1499px;
+}
+
+.stanok1{
+  position: absolute;
+  left: 101.7px;
+  top: 1799.31px;
+}
+
+.stanok2{
+  position: absolute;
+  left: -459px;
+  top: 1928.1px;
+
+}
+
+.big{
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-size: 20px;
+  left: 335px;
+  top: 2821px;
+  position: absolute;
+}
+
+.stanok3{
+  position: absolute;
+  left: 643px;
+  top: 3836px;
+
+
+}
+
+.conv{
+  position: absolute;
+  left: -9px;
+  top: 4237px;
+}
+
+.pllain{
+  position: absolute;
+  width: 849px;
+  height: 172px;
+  left: 0px;
+  top: 5007px;
+
+  background: #FFFFFF;
+}
+
+.konveer{
+  position: absolute;
+  left: 366px;
+  top: 5076px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.conv2{
+  position: absolute;
+  left: 0px;
+  top: 5319px;
+}
+
+.conv3{
+  position: absolute;
+  left: 724px;
+  top: 5641.53px;
+}
+
+.mgk{
+  position: absolute;
+  left: 345px;
+  top: 6599px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.l{
+  position: absolute;
+  left: -277px;
+  top: 6648px;
+
+}
+
+.podst{
+  position: absolute;
+  left: 892.26px;
+  top: 7417.65px;
+
+
+}
+
+.r{
+  position: absolute;
+  left: 469px;
+  top: 6613px;
+
+}
+
+.mgkconv{
+  position: absolute;
+  left: 303px;
+  top: 7526px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.laz4{
+  position: absolute;
+  left: 10px;
+  top: 7586px;
+}
+
+.laz3{
+  position: absolute;
+  left: 344px;
+  top: 7786px;
+}
+
+.lazrng{
+  position: absolute;
+  left: 26px;
+  top: 8673px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.podst2{
+  position: absolute;
+  left: 0px;
+  top: 10422.9px;
+}
+
+.podst3{
+  position: absolute;
+  left: 1781.3px;
+  top: 8533.04px;
+
+}
+
+.process{
+  position: absolute;
+  left: -1836px;
+  top: 9067.79px;
+
+}
+
+.moretime{
+  position: absolute;
+  left: 49px;
+  top: 11607px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.l2{
+  position: absolute;
+  left: 172px;
+  top: 10096px;
+}
+
+.prhd{
+  position: absolute;
+  left: 57px;
+  top: 12277px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.boxes{
+  position: absolute;
+  width: 1090px;
+  height: 1090px;
+  left: -141px;
+  top: 12432px
+}
+
+.ypkvk{
+  position: absolute;
+  left: 372px;
+  top: 13424px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.tmchr{
+  position: absolute;
+  left: 372px;
+  top: 13424px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.bp22d{
+  position: absolute;
+  left: 662px;
+  top: 13424px;
+  font-family: 'Helvetica';
+  font-weight: 400;
+  font-size: 20px;
+}
+
+}
